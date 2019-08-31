@@ -5,6 +5,7 @@ fasdfs-nginx,nginx green env make shell
 Linux centos 2.6.32-642.el6.x86_64 #1 SMP Tue May 10 17:27:01 UTC 2016 x86_64 x86_64 x86_64 GNU/Linux
 
 基于：
+
 fdfsver=5.12
 ngxver=1.17.3
 
