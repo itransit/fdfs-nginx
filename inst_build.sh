@@ -1,5 +1,7 @@
 #! /bin/bash
 
+# author by itransit 
+
 # # Allow only non-root execution
 # if [ `id|sed -e s/uid=//g -e s/\(.*//g` -eq 0 ]; then
 #     echo "This script requires non-root privileges"
